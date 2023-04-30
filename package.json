@@ -1,0 +1,20 @@
+{
+  "name": "@example/minimal",
+  "type": "module",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "astro": "^2.3.2"
+  },
+  "devDependencies": {
+    "@types/web": "^0.0.99",
+    "@types/wicg-file-system-access": "^2020.9.6"
+  }
+}
